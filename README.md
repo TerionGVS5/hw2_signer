@@ -1,2 +1,2 @@
 # hw2_signer
-My solution to the task of the second week of the course: https://www.coursera.org/learn/golang-webservices-1
+See description in https://github.com/TerionGVS5/hw2_signer/blob/master/hw2.md
